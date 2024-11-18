@@ -1,9 +1,9 @@
-# 1. How to create a modules in Python:smile:
+# 1. How to create a modules in Python😄
 
 
 Hello, in this lesson we will learn how to use markdown to create an engaging readme.
 
-# 2. What we will learn in this lesson:cd:
+# 2. What we will learn in this lesson💿
 - How to create a markdown file
 - How to write markdown syntax
 - How to format code in markdown
@@ -24,7 +24,7 @@ You can find all the emoji's here:
 1. Mac : **MacDown**
 2. Windows: **ghostwriter** or **MarkdownEditor**
 
-# Our Program:kiss:
+# Our Program💫
 
 To load an image use an exclamation in square brackets **![Alternate text]** e.g ! [Image of a cat]
 ![Reference Image](/Screenshots/screentshot%201.png)
